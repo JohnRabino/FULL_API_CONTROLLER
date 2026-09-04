@@ -1,0 +1,6 @@
+@FULLAPI_HostAddress = http://localhost:5125
+
+GET {{FULLAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
